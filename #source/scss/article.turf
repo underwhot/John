@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scaleble=0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>John | Article</title>
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- @import "header.html" -->
+    <main class="page">
+
+      <div class="article">
+        <h1 class="article__title">Designing Dashboards with usability in mind</h1>
+        <div class="article__info">
+          <div class="article__year">2020</div>
+          <div class="article__category">Dashboard, User Experience Design</div>
+        </div>
+        <div class="article__text text">
+          <p>
+            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit
+            officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
+          </p>
+          <img src="img/article/01.jpg" alt="">
+          <p>
+            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit
+            officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
+          </p>
+          <img src="img/article/02.jpg" alt="">
+          <img src="img/article/03.jpg" alt="">
+        </div>
+      </div>
+
+    </main>
+    <!-- @import "footer.html" -->
+
+  </div>
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
